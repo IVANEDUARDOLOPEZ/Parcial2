@@ -12,6 +12,10 @@ COMO O QUE ARCHIVOS SUBIR, LOS ARCHIVOS QUE SE SUBIERON SON
 2- BACKUP O BASE DE DATOS DE DBEAVER
 3- DOCKER FILE Y PGDATABASE DE VISUAL STUDIO CODE
 
+por cierto, la IP que use fue la de mi pc la 192.168.1.4
+el name de la base de datos es : postgres
+contraseña: postgres
+
 si necesita un archivo extra, hacermelo saber al correo: lt22009@ues.edu.sv
 ya que en realidad y como repito no sabemos que archivos subir.
 
