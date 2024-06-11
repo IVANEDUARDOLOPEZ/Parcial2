@@ -12,6 +12,9 @@ COMO O QUE ARCHIVOS SUBIR, LOS ARCHIVOS QUE SE SUBIERON SON
 2- BACKUP O BASE DE DATOS DE DBEAVER
 3- DOCKER FILE Y PGDATABASE DE VISUAL STUDIO CODE
 
+si necesita un archivo extra, hacermelo saber al correo: lt22009@ues.edu.sv
+ya que en realidad y como repito no sabemos que archivos subir.
+
 PARTICIPANTES :
 
 ALEJANDRA MICHELLE MEJIA RIVAS - MR22035
