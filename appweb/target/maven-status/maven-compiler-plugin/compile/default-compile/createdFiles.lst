@@ -1,0 +1,13 @@
+libcode\webapp\controladores\IndexControllerInscripcion.class
+libcode\webapp\entidades\Alumno.class
+libcode\webapp\resources\RecursoMat.class
+libcode\webapp\controladores\IndexController.class
+libcode\webapp\resources\App.class
+libcode\webapp\entidades\Inscripcion.class
+libcode\webapp\negocios\DataServiceMat.class
+libcode\webapp\resources\Recurso.class
+libcode\webapp\resources\RecursoInscripcion.class
+libcode\webapp\controladores\IndexControllerMat.class
+libcode\webapp\entidades\Materia.class
+libcode\webapp\negocios\DataService.class
+libcode\webapp\negocios\DataServiceInscripcion.class
