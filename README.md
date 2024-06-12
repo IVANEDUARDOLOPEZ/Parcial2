@@ -11,9 +11,13 @@ PGPASSWORD='BvNOaQ74fyuV'
 
 
 
-INSTRUCCIONES
+INSTRUCCIONES INPORTANTES
 
-BUEN DIA INGENIERO, POR ACA ESTA EL PROYECTO CON BASE DE DATOAS EN LA NUVE
+hacer un CLEAN AND BUILD antes de compilar o correr
+en payala el nombre del del JDBC CONECCION POOL el nombre que le pusimos fue: PoolWebApp
+el nombre en JDBC RESOURCES fue : jdbc/webapp 
+
+
 
 
 si necesita un archivo extra, hacermelo saber al correo: lt22009@ues.edu.sv
